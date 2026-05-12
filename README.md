@@ -11,8 +11,9 @@ Bowie JS et al. *Heat tolerance classification criteria require population-speci
 ### Current work
 
 - Bayesian hierarchical fitness-fatigue modeling against an open resistance-training cohort.
-- Surface-EMG fatigue dynamics during knee extension to failure (manuscript in preparation).
+- [**synthesim**](https://github.com/JacobBowie/synthesim): an interactive MEDv4 fitness-fatigue model explorer with a seven-test physiological-plausibility validator. R Shiny + marimo WASM + Docker. [Live demo](https://get-paid.shinyapps.io/synthesim/).
 - *The Banister Constellation:* a 175-paper citation graph of fifty years of fitness-fatigue model literature, [previewed on the portfolio](https://jacobbowie.com); interactive viewer and source release in progress.
+- Surface-EMG fatigue dynamics during knee extension to failure (manuscript in preparation).
 
 ### What's here
 
