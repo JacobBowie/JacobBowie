@@ -12,8 +12,13 @@ Bowie JS et al. *Heat tolerance classification criteria require population-speci
 
 - Bayesian hierarchical fitness-fatigue modeling against an open resistance-training cohort.
 - [**synthesim**](https://github.com/JacobBowie/synthesim): an interactive MEDv4 fitness-fatigue model explorer with a seven-test physiological-plausibility validator. R Shiny + marimo WASM + Docker. [Live demo](https://get-paid.shinyapps.io/synthesim/).
+- [**literature-pipeline**](https://github.com/JacobBowie/literature-pipeline): open-source biomedical paper acquisition + citation-graph snowballing toolkit. Cascades Unpaywall to PubMed Central to preprint mirrors; indexes in DuckDB; includes a MathML-to-LaTeX rendering pass for JATS XML.
 - *The Banister Constellation:* a 175-paper citation graph of fifty years of fitness-fatigue model literature, [previewed on the portfolio](https://jacobbowie.com); interactive viewer and source release in progress.
 - Surface-EMG fatigue dynamics during knee extension to failure (manuscript in preparation).
+
+### Looking for
+
+Longer-term postdoctoral and industry roles at the intersection of applied ML, wearables, and human physiology. Email: jacob.bowie2 at gmail.
 
 ### What's here
 
