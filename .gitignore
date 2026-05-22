@@ -1,0 +1,15 @@
+# Local Claude session orientation files — never committed.
+# These are written by Claude sessions for local context; the README is
+# the canonical public surface of this repo.
+CLAUDE.md
+CURRENT_STATE.md
+_PORTFOLIO_BRIEF*.md
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / tool caches
+.vscode/
+.idea/
+*.log
