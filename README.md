@@ -1,6 +1,6 @@
 ## Jacob Bowie, PhD
 
-Visiting Assistant Professor of Kinesiology at the University of Connecticut, with research in the Human Performance Laboratory and the Korey Stringer Institute. I work on statistical analysis and machine learning for human physiology research: wearable sensor time-series, hierarchical Bayesian and mixed-effects modeling of within-person variability, and reproducible analysis pipelines. Marine Corps veteran.
+Visiting Assistant Professor of Exercise Science in the Department of Kinesiology at the University of Connecticut, with research in the Human Performance Laboratory and the Korey Stringer Institute. I work on statistical analysis and machine learning for human physiology research: wearable sensor time-series, hierarchical Bayesian and mixed-effects modeling of within-person variability, and reproducible analysis pipelines. Marine Corps veteran.
 
 **Portfolio:** [jacobbowie.com](https://jacobbowie.com) · **ORCID:** [0000-0002-6055-8220](https://orcid.org/0000-0002-6055-8220)
 
